@@ -3,11 +3,6 @@
 ## Overview
 This repository contains materials related to the replication study **"What Can Historically Black Colleges and Universities Teach about Improving Higher Education Outcomes for Black Students?"**. The study aims to replicate the findings of Price & Viceisza (2023) using R and publicly available datasets.
 
-## Contents
-- **Data_science_in_business_Manvanth_sundareshan.pdf**: The main report detailing the replication process, methodology, and findings.
-- **Data_science_in_business_Manvanth_sundareshan.Rmd**: The R Markdown file containing code and analysis for the replication.
-- **Supporting datasets and scripts**: Necessary files to perform data processing, statistical analysis, and table replication.
-
 ## Objectives
 - Validate the findings of Price & Viceisza (2023) regarding the impact of Historically Black Colleges and Universities (HBCUs) on student success.
 - Reproduce three key tables comparing outcomes between HBCUs and non-HBCUs using R.
